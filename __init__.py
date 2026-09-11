@@ -1,0 +1,2 @@
+"""Personal finance analysis package."""
+
